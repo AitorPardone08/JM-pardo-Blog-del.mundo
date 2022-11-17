@@ -1,0 +1,19 @@
+body{
+    background: rgb(1, 1, 92);
+    color: rgb(145, 3, 3);
+}
+
+article{
+    color: yellow;
+}
+
+#tenis-del-mundo{
+    background: rgb(2, 122, 2);
+    color: blue;
+    
+}
+
+#blog_del-mundo{
+    text-align: center;
+    font-size: 3rem;
+}
